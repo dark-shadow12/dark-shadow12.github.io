@@ -23,9 +23,8 @@ a {
     letter-spacing: 4px;
     overflow: hidden;
     margin-right: center;
-    font-size: 70px; 
+    font-size: 50px;
 }
-
 
 a:hover {
     background: #03e9f4;
